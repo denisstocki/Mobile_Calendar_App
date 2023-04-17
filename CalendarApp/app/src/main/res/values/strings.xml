@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CalendarApp</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="defaultMonYear">April 2023</string>
+    <string name="forward"><![CDATA[>]]></string>
+    <string name="sunday">SUN</string>
+    <string name="monday">MON</string>
+    <string name="tuesday">TUE</string>
+    <string name="wednesday">WED</string>
+    <string name="thursday">THU</string>
+    <string name="friday">FRI</string>
+    <string name="saturday">SAT</string>
+    <string name="Weekly">Weekly</string>
+    <string name="NewEvent">New Event</string>
+    <string name="Event">Event</string>
+    <string name="Name">Nazwa wydarzenia:</string>
+    <string name="Date">Data</string>
+    <string name="Time">Czas</string>
+    <string name="Save">Zapisz</string>
+    <string name="Daily">Daily</string>
+    <string name="HourTenth">10:00</string>
+    <string name="Event1">Wydarzenie 1</string>
+    <string name="Event2">Wydarzenie 2</string>
+    <string name="Event3">Wydarzenie 3</string>
+    <string name="Delete">Usun</string>
+</resources>
